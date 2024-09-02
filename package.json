@@ -1,0 +1,19 @@
+{
+  "name": "jetlinks-dueros-ui",
+  "version": "1.0.0",
+  "description": "百度物联网平台接入",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jetlinks-v2/jetlinks-dueros-ui.git"
+  },
+  "keywords": [
+    "jetlinks"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jetlinks-v2/jetlinks-dueros-ui/issues"
+  },
+  "homepage": "https://github.com/jetlinks-v2/jetlinks-dueros-ui#readme"
+}
